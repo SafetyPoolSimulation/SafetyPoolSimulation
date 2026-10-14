@@ -1,0 +1,73 @@
+Third-Party Software Notices
+=============================
+
+
+Eclipse SUMO v1.23.1
+--------------------
+
+Copyright (c) Eclipse SUMO contributors
+
+Eclipse SUMO is licensed under EPL-2.0 (with GPL secondary licensing provisions). 
+
+License: https://github.com/eclipse-sumo/sumo/blob/main/LICENSE
+
+Project: https://eclipse.dev/sumo
+
+This product includes pre-built binaries and the TraCI client library from
+Eclipse SUMO. In accordance with the SUMO project's NOTICE.md, TraCI client
+applications that use the public TraCI client libraries are not considered
+derivative works of Eclipse SUMO.
+
+Source code: https://github.com/eclipse-sumo/sumo
+
+
+===============================================================================
+
+
+esmini (Environment Simulator Minimalistic)
+-------------------------------------------
+
+Copyright (c) esmini contributors
+
+esmini is licensed under MPL-2.0.
+
+License: https://github.com/SafetyPoolSimulation/esmini/blob/swarm_updates/LICENSE
+
+Project: https://github.com/esmini/esmini
+
+This product includes a modified version of esmini (esminiLib and
+RoadManager libraries). In accordance with MPL-2.0 Section 3.2, the
+complete modified source code is available at:
+https://github.com/SafetyPoolSimulation/esmini/tree/swarm_updates
+
+
+===============================================================================
+
+
+brifsttar/OpenDRIVE Plugin
+--------------------------
+
+Copyright (c) brifsttar contributors
+
+brifsttar/OpenDRIVE is licensed under MPL-2.0
+
+License: https://github.com/brifsttar/OpenDRIVE/blob/eb98765/LICENSE
+
+Project: https://github.com/brifsttar/OpenDRIVE
+
+This product includes source code from the brifsttar/OpenDRIVE Unreal
+Engine plugin (originally imported from commit eb98765). The following
+files contain minor modifications to the original Covered Software:
+
+- Source/OpenDRIVE/OpenDRIVE.Build.cs (added a PublicDefinitions entry)
+- Source/OpenDRIVE/Public/OpenDriveEditorLane.h (changed private to protected, added virtual)
+- Source/OpenDRIVEEditor/OpenDRIVEEditor.Build.cs (reduced to minimal
+  stub)
+
+In accordance with MPL-2.0 Section 3.2, the complete source code of
+these modified files is available at:
+https://github.com/SafetyPoolSimulation/OpenDRIVE
+
+The remaining files in this product are either unmodified originals or
+part of a Larger Work under Section 3.3 and are distributed under
+separate terms.
